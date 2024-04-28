@@ -58,7 +58,7 @@ Additionally , by offering a wide selection of materials and a user-friendly int
    b. Multiplication of two matrices.
    c. Addition of two matrices.
 
-8. **Lab Assignment on CONTENT MANAGEMENT SYSTEM:*
+8. **Lab Assignment on CONTENT MANAGEMENT SYSTEM:**
    **Assignment No 1:**
    Develop website using any CMS tool which falls into one of the categories blogs, social networking, News updates, Wikipedia, E-commerce store. Website must include home page, and at least 3.
 
